@@ -2,7 +2,7 @@
 
 ## What is this about?
 
-Space Apps Challenge ( http://spaceappschallenge.org/ ) Orga for Berlin @c-base 2016
+Space Apps Challenge ( http://spaceappschallenge.org/ ) orga for Berlin [@c-base](https://en.wikipedia.org/wiki/C-base) 2016
 
 ## How to use this repo
 
