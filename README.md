@@ -12,4 +12,4 @@ create or close issue: https://github.com/SpcAppsBln/orga/issues
 
 - [ligi](https://github.com/ligi)
 - [letty](https://github.com/letty)
-- [ri0t](https://github.com/ri0t) ( c-baser key member ) 
+- [ri0t](https://github.com/ri0t) ( c-base key member ) 
